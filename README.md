@@ -6,7 +6,7 @@ A Sierra-style text adventure game with EGA graphics, playable in your browser.
 
 ## 🎮 Play Now
 
-**[Play the game here](https://YOUR_USERNAME.github.io/lighthouse-of-forgotten-souls/)**
+**[Play the game here](https://aefreedman.github.io/lighthouse-of-forgotten-souls/)**
 
 ## About
 
